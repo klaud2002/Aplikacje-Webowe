@@ -1,2 +1,2 @@
 # Aplikacje-Webowe
-epozytorium do projektów aplikacji webowych
+repozytorium do projektów aplikacji webowych
